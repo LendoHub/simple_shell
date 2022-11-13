@@ -1,4 +1,4 @@
-nclude "shell.h"
+#include "shell.h"
 
 /**
  * _erratoi - converts a string to an integer
